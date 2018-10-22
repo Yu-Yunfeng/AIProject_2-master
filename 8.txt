@@ -1,0 +1,14 @@
+G|H
+X|~A
+~X|A
+H|~A
+~G|~H|A
+H
+A|~C
+C|~A
+C|G
+
+X
+Y
+Z
+W
